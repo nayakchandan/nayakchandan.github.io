@@ -1,2 +1,2 @@
 # Chandan Nayak
-## Masters student in Data Science at the University of San Francisco
+## Master's Student at University of San Francisco in Data Science
