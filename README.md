@@ -14,4 +14,4 @@
 **Distributed Computing** – Implemented a recommender system using word embeddings and an ALS classifier. The dataset, containing 73 million rows, was warehoused in S3 with preprocessing in PySpark and results were saved in a MongoDB Atlas instance. Feature engineering and machine learning model training were performed in SparkML.
 
 
-**Experimentation and A/B Testing** – Applied 2k factorial testing to optimize the user engagement time for a media website. [I can share the report on request]
+**Experimentation and A/B Testing** – Applied 2k factorial testing to optimize the user engagement time by changing four factors in the UI. [I can share the report on request]
